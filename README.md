@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Simeon.
-- 👀 I’m interested in Python programming and Bioinformatics.
-- 🌱 I’m currently studying Biomedical sciences at the UK as a Bachelor's degree. I am also actively learning to code since January 2021.
+- 👀 I’m interested in Python programming, Data Science and Bioinformatics.
 
 <!---
 simeonstavrev/simeonstavrev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
